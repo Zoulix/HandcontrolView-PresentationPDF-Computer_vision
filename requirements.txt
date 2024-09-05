@@ -1,0 +1,6 @@
+PySide6
+pdf2image
+opencv-python
+cvzone
+numpy
+pillow
